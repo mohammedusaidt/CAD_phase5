@@ -13,7 +13,7 @@
 
  <p align="center">
 <a href="#">
-<img src="https://d117h1jjiq768j.cloudfront.net/images/default-source/products/datadirect/data-sources/db2.png?sfvrsn=e27e2c96_6">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKM1hZBs_08I_sNaT7XRYhEAQY5DKL-KxFg&usqp=CAU">
 </a>
 <a href="#">
 <img src="https://s9i7q5a6.rocketcdn.me/solutions/wp-content/uploads/2022/10/IBMWatsonLogo.png" />
